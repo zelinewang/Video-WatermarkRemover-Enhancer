@@ -128,6 +128,17 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Project-specific
+weights/
+test*.mp4
+test*/
+*_enhanced.mp4
+*_temp_*.mp4
+*_temp_*.aac
+debug_detection/
+demo/
+samples/
+
 # temporary files
 ## IDEA
 .idea/
